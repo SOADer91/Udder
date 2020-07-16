@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Children-who-drink-whole-milk-less-likely-to-be-obese-Study_wrbm_large.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
